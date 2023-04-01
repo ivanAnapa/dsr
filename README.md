@@ -7,3 +7,6 @@ Run tests with Allure report:
 
 Allure report path:
 build/reports/allure-report/allureReport/index.html
+
+Branch status:
+[![Build status](https://ci.appveyor.com/api/projects/status/3npqr8bpuvptwqhc/branch/main?svg=true)](https://ci.appveyor.com/project/ivanAnapa/dsr/branch/main)
