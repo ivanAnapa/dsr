@@ -79,4 +79,7 @@ public class SubmitCVPageTest {
                 .validateAlertText(testData)
                 .acceptAlert();
     }
+
+    // ToDo: 1. add 'Field validation' tests
+    // ToDo: 2. add 'rest-assured' tests (added to build.gradle)
 }
