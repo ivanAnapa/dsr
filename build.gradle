@@ -32,6 +32,6 @@ dependencies {
 
 test {
     useJUnitPlatform()
-    //systemProperty 'selenide.headless', System.getProperty('selenide.headless')
+    systemProperty 'selenide.headless', System.getProperty('selenide.headless')
     systemProperty 'sut.url', System.getProperty('sut.url', 'https://vladimirwork.github.io/web-ui-playground')
 }
