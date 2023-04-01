@@ -165,8 +165,7 @@ public class SubmitAnApplicationPage {
         return this;
     }
 
-    public SubmitAnApplicationPage acceptAlert() {
+    public void acceptAlert() {
         Selenide.switchTo().alert().accept();
-        return this;
     }
 }
