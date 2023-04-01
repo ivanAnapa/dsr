@@ -1,0 +1,31 @@
+[ {
+  "uid" : "b7ff3c735e9b29ad",
+  "name" : "sendCvWithValidDataTest()",
+  "time" : {
+    "start" : 1680354253691,
+    "stop" : 1680354258302,
+    "duration" : 4611
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74e86e5b2742f200",
+  "name" : "allPageElementsShouldPresent()",
+  "time" : {
+    "start" : 1680354258371,
+    "stop" : 1680354260221,
+    "duration" : 1850
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ab8a75976f9b29c",
+  "name" : "allInputsShouldBeMandatory()",
+  "time" : {
+    "start" : 1680354260228,
+    "stop" : 1680354261715,
+    "duration" : 1487
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

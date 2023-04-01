@@ -1,0 +1,64 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "ivan_ch",
+    "children" : [ {
+      "name" : "7464@ivan_ch.Test worker(1)",
+      "children" : [ {
+        "name" : "sendCvWithValidDataTest()",
+        "uid" : "b7ff3c735e9b29ad",
+        "parentUid" : "0992bf2ada6a1378b9eb0d2b1fd8dd30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1680354253691,
+          "stop" : 1680354258302,
+          "duration" : 4611
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allInputsShouldBeMandatory()",
+        "uid" : "6ab8a75976f9b29c",
+        "parentUid" : "0992bf2ada6a1378b9eb0d2b1fd8dd30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1680354260228,
+          "stop" : 1680354261715,
+          "duration" : 1487
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "allPageElementsShouldPresent()",
+        "uid" : "74e86e5b2742f200",
+        "parentUid" : "0992bf2ada6a1378b9eb0d2b1fd8dd30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1680354258371,
+          "stop" : 1680354260221,
+          "duration" : 1850
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0992bf2ada6a1378b9eb0d2b1fd8dd30"
+    } ],
+    "uid" : "9e84978d385ef83564bd0d1336a5b1ff"
+  } ]
+}
