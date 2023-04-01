@@ -1,4 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sat Apr 01 16:04:13 MSK 2023","Sat Apr 01 16:04:18 MSK 2023","4611","","dsr.example.ivan.test.SubmitCVPageTest","","dsr.example.ivan.test.SubmitCVPageTest","sendCvWithValidDataTest","sendCvWithValidDataTest()",""
-"passed","Sat Apr 01 16:04:18 MSK 2023","Sat Apr 01 16:04:20 MSK 2023","1850","","dsr.example.ivan.test.SubmitCVPageTest","","dsr.example.ivan.test.SubmitCVPageTest","allPageElementsShouldPresent","allPageElementsShouldPresent()",""
-"passed","Sat Apr 01 16:04:20 MSK 2023","Sat Apr 01 16:04:21 MSK 2023","1487","","dsr.example.ivan.test.SubmitCVPageTest","","dsr.example.ivan.test.SubmitCVPageTest","allInputsShouldBeMandatory","allInputsShouldBeMandatory()",""
