@@ -57,5 +57,10 @@ public class Const {
         return JPG_FILE_PATH;
     }
 
+    private static final String[] GENDER = {"Male", "Female"};
+
+    public static String[] getGENDER() {
+        return GENDER;
+    }
 
 }

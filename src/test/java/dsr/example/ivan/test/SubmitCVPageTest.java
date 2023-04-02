@@ -13,6 +13,9 @@ import static com.codeborne.selenide.Selenide.closeWebDriver;
 import static com.codeborne.selenide.Selenide.open;
 
 public class SubmitCVPageTest {
+    /**
+     * UI examples
+     */
 
     @BeforeAll
     static void setUpAll() {
@@ -62,7 +65,7 @@ public class SubmitCVPageTest {
                 DataHelper.generateLastNameLat(),
                 DataHelper.generateEmail(),
                 DataHelper.generateValidPhoneNumber().toString(),
-                "Male",
+                Const.getGENDER()[0],
                 Const.getVACANCY_TEXT()[1]
         };
 
@@ -81,5 +84,4 @@ public class SubmitCVPageTest {
     }
 
     // ToDo: 1. add 'Field validation' tests
-    // ToDo: 2. add 'rest-assured' tests (added to build.gradle)
 }
